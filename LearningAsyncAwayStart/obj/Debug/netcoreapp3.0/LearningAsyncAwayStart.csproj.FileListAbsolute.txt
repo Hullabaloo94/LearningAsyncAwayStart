@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\netcoreapp3.0\LearningAsyncAwayStart.exe
+C:\Users\Jason\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\netcoreapp3.0\LearningAsyncAwayStart.deps.json
+C:\Users\Jason\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\netcoreapp3.0\LearningAsyncAwayStart.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\netcoreapp3.0\LearningAsyncAwayStart.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\netcoreapp3.0\LearningAsyncAwayStart.dll
+C:\Users\Jason\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\bin\Debug\netcoreapp3.0\LearningAsyncAwayStart.pdb
+C:\Users\Jason\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\netcoreapp3.0\LearningAsyncAwayStart.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\netcoreapp3.0\LearningAsyncAwayStart.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\netcoreapp3.0\LearningAsyncAwayStart.dll
+C:\Users\Jason\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\netcoreapp3.0\LearningAsyncAwayStart.pdb
+C:\Users\Jason\source\repos\LearningAsyncAwayStart\LearningAsyncAwayStart\obj\Debug\netcoreapp3.0\LearningAsyncAwayStart.csprojAssemblyReference.cache
